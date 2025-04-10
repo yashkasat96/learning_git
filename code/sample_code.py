@@ -10,3 +10,6 @@ def multiply_number(a, b):
 
 def square_number(a):
     return a * a
+
+def divide_number(a, b):
+    return a / b
